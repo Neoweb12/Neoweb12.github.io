@@ -187,3 +187,76 @@ acronym, .dashed{
 .results_td {
 	padding: 0 10px 20px 20px;
 }
+
+.bg-top {
+	background: url(../pic/bg_top.gif);
+}
+
+.bg-top-r {
+	background: url(../pic/bg_top.gif) repeat-x;
+}
+
+.bg-bottom-r {
+	background: url(../pic/bg_bottom.gif);
+}
+
+.bg-bottom-r {
+	background: url(../pic/bg_bottom.gif) repeat-x;
+}
+
+.phone {
+	background: url(../pic/phone.gif) no-repeat;
+	background-position: 50% 50%;
+}
+
+.w800 {
+	width: 800px;
+}
+
+.w400 {
+	width: 400px;
+}
+
+.w200 {
+	width: 200px;
+}
+
+.w100p {
+	width: 100%;
+}
+
+.h100vh {
+	height: 100vh;
+}
+
+.h100 {
+	height: 100px;
+}
+
+.h53 {
+	height: 53px;
+}
+
+.p-5-0 {
+	padding: 5px 0;
+}
+
+.p-0-10 {
+	padding: 0 10px;
+}
+
+.p-12-20 {
+	padding: 12px 20px;
+}
+
+.p-20 {
+	padding: 20px;
+}
+
+.white {
+	color: #FFF;
+}
+
+.bt-dashed {
+	border-top: 1px dashed #BDBDBD;
+}
